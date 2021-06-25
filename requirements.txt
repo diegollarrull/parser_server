@@ -1,0 +1,6 @@
+spacy==2.3.5
+stanza==1.1.1
+networkx==2.5.1
+typing==3.7.4.3
+fastapi==0.65.1
+pydantic==1.7.4
